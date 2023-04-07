@@ -32,7 +32,6 @@ const Header = () => {
                     <Nav.Link as={HashLink} to="/addcart" className="nav-cart mx-lg-3"><FontAwesomeIcon icon={faCartPlus} /></Nav.Link>
                     <Nav.Link as={HashLink} to="/login" className="nav-cart"><FontAwesomeIcon icon={faSignInAlt} /></Nav.Link>
                   </Nav>
-               
               </Navbar.Collapse>
             </Container>
         </Navbar>
