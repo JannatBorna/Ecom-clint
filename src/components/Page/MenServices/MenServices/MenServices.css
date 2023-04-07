@@ -1,0 +1,10 @@
+.men-services{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.menservices{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}

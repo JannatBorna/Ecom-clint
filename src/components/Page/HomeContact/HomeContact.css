@@ -1,0 +1,9 @@
+.message_headline {
+  color: rgb(230, 18, 64) !important;
+  font-size: 34px;
+  font-weight: 600;
+  font-family: monospace;
+  border-bottom: 4px solid #e61240;
+  width: 380px;
+  margin-left: 530px;
+}

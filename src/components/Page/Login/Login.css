@@ -1,0 +1,46 @@
+.sign{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.sign h1{
+  /* border: 1px solid #e0e0e0; */
+  color: #dd8f11 !important;
+  font-style: oblique;
+  font-family:monospace;
+}
+
+.sign-text{
+    height: 400px;
+    box-shadow: 0 8px 50px rgba(0, 0, 0, 0.2);
+}
+
+
+.sign-text button {
+  margin-top: 100px;
+  padding: 0.5em;
+  border: none;
+  background-color: #dd8f11 !important;
+  color: #ffff !important;
+}
+
+.sign-text p{
+  margin-top: 20px;
+}
+
+.dot-1{
+  color: #dfdfdf;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.dot-2{
+color: #dfdfdf;
+font-weight: 600;
+margin-top: 90px;
+}
+
+.sign-img img{
+  width: 100%;
+  height: 60vh;
+}

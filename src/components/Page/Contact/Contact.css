@@ -1,0 +1,81 @@
+#contact{
+  margin-top: 100px;
+}
+
+.contact-1{
+  margin-left: 200px;
+}
+
+.contact{
+  padding: 0.5em;
+  color: white !important;
+  border-radius: 800px;
+  height: 200px;
+  width: 200px;
+  background-color: #dd8f11 !important;
+}
+.contact h4{
+  cursor: pointer;
+}
+
+.contact a{
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.contact-icon {
+  color: #ffffff !important;
+  font-size: 40px;
+  cursor: pointer;
+}
+.form{ 
+  margin-left: 00px;
+  width: 100%;
+  height: 65vh;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.form h2{
+  color: #dd8f11 !important;
+}
+
+.input{
+  margin-left: 30px;
+}
+
+.input input{
+  background-color: #d5d5d5 !important;
+  width: 430px;
+  height: 7vh;
+  border: none;
+}
+
+.input input:focus {
+    outline: none;
+}
+
+.input label{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.messanger{
+  margin-left: 30px;
+}
+
+.messanger label{
+  font-size: 20px;
+  font-weight: 600;
+}
+.messanger textarea{
+  background-color: #d5d5d5 !important;
+  border: none;
+}
+
+.messanger textarea:focus {
+    outline: none;
+}
+
+.contact-btn{
+  margin-right: -80px;
+}
