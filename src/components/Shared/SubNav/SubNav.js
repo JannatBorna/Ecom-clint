@@ -1,11 +1,11 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { HashLink } from 'react-router-hash-link';
+import { Link } from 'react-router-dom';
 import women from '../../../images/sub-nav/women.png';
 import baby from '../../../images/sub-nav/baby.png';
 import men from '../../../images/sub-nav/men.png';
 import './SubNav.css';
-import { Link } from 'react-router-dom';
 
 
 const SubNav = () => {
